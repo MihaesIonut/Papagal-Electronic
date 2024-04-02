@@ -1,0 +1,5 @@
+In acest proiect, folosind Code Vision AVR, vom programa microcontrolerul astfel incat sa functioneze ca un papagal. 
+Folosind resure de pe github, voi incerca sa reprezint pe ecranul calculatorului in care va fi introdusa placuta, o imagine care sa imite mimica fetei in momentul redarii semnalului audio captat prin microfon, similar memojy-ului prezent pe iPhone.
+Proiectul este in desfasurare, momentan s-au lipit componentele pe placuta, s-a montat convertorul USB to UART si s-a testat functionalitatea placutei pana in acest moment folosind softul de test atasat.
+Specificatiile microcontrolerului pot fi gasite in fisierul cpu-rev8.
+Codul urmeaza sa fie incarcat aici.
